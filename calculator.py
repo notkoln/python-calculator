@@ -1,4 +1,4 @@
-print("really simple Python calculator made by notkoln on github\ntype 'quit' to exit and type 'help' for a list of inputs\n\n")
+# print("really simple Python calculator made by notkoln on github\ntype 'quit' to exit and type 'help' for a list of inputs\n\n")
 
 def add(x, y):
   return x + y
